@@ -1,0 +1,4 @@
+- 👋🏻I am Thasushigamer.
+- 🧑🏻‍💻I am developer of FexOs.inc
+-   here are codes to create cryptocurrencies,
+-   and to create an operating systems.
